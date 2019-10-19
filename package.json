@@ -1,0 +1,12 @@
+{
+  "name": "ts-mini-tss-milligram",
+  "version": "0.0.1",
+  "description": "Port of milligram css library for ts-mini",
+  "main": "milligram.ts",
+  "repository": "https://github.com/DanielMazurkiewicz/ts-mini-tss-milligram.git",
+  "author": "Daniel Mazurkiewicz <daniel.mazurkiewicz.dm@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ts-mini": "*"
+  }
+}
